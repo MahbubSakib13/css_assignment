@@ -1,0 +1,9 @@
+img.image{
+    border: 5px dotted #34db8d; /* Dotted border with a 5px width and a blue color (#3498db) */
+    padding: 20px; /* Adds extra space around the image inside the border */
+    background-color: #f76f98; 
+    margin-top: 20px; 
+    cursor: pointer;
+    float: left;
+    shape-outside: circle(50%); 
+}
